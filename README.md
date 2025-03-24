@@ -1,2 +1,2 @@
-# portifolio
-MEU portifoliozinho de projetinhos😘
+# portfolio
+Meu portfolios de trabalhos e atividades
